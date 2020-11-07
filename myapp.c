@@ -4,4 +4,6 @@
 int main()
 {
    foo();
+   myexperiment_function();
 }
+
